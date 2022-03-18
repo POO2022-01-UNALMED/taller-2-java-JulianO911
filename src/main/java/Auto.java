@@ -1,6 +1,5 @@
-package Clases;
 package test;
-import java.util.ArrayList;
+package Clases;
 
 public class Auto {
 	public String modelo;

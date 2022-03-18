@@ -1,5 +1,4 @@
 package test;
-package Clases;
 
 public class Auto {
 	public String modelo;

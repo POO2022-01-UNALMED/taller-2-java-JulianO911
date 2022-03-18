@@ -1,5 +1,5 @@
 package test;
-package Clases;
+
 public class Motor {
 	public int numeroClilindros;
 	public String tipo;

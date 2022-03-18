@@ -10,7 +10,7 @@ public class Auto {
 	public static int cantidadCreados;
 	
 	public int cantidadAsientos() {
-		return asientos.length;
+		return this.asientos.length;
 	}
 	
 	public String verificarIntegridad() {
